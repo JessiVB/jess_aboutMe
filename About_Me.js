@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
   let findMebtn = document.getElementById("findMe");
 
   function callMe() {
-    alert("Call me, maybe: 732-694-8175");
+    alert("Send me an em for my phone number!");
   }
   function findMe() {
     alert("Don't be a creeper, you don't need to know where I live " + String.fromCodePoint(128064));
